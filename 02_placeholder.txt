@@ -1,1 +1,0 @@
-* The spectra for 500 1e events and 500 0νββ events individually are displayed in (GITHUB CITATION) --> 02_1e_0vbb_spectra
